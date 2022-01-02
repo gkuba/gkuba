@@ -1,14 +1,20 @@
-### Hi there, I'm Geramie - aka [GKuba][github]
+<h1 align="center">Hi 👋, I'm Geramie!</h1>
+<h3 align="center">I'm a sysadmin who loves to automate things.</h3>
 
-#### I'm a Father who loves to learn and play games with his kids!
-- &#x1F3AE; I like to host game servers for my friends and kids.
-- &#x2728; I love to automate things.
-- &#x1F4DA; I am currently learning Ansible and C++.
-- &#x1F49C; I'm a content creator over at [twitch.tv][twitch].
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gkuba&label=Profile%20views&color=0e75b6&style=flat" alt="gkuba" /> </p>
 
-<br />
+- 🔭 I’m currently working on **automating my home servers**
 
-[github]: https://github.com/gkuba
-[website]: http://www.tuxgamer.com
-[twitch]: https://twitch.tv/GKuba
-[youtube]: https://www.youtube.com/channel/UC4b6EX5aGEFAa8onVrx7gpA
+- 🌱 I’m currently learnin **Ansible, C++, and Unreal Engine 4/5**
+
+- ⚡ Fun fact **I stream over on twitch.tv**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/geramie-kuba-05b98b54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geramie-kuba-05b98b54" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkuba&show_icons=true&locale=en&layout=compact" alt="gkuba" /></p>
