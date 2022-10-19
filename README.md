@@ -5,7 +5,7 @@
 
 - I’m currently working on **automating my home servers**
 
-- I’m learnin **Ansible, C++, and Unreal Engine 4/5**
+- I’m learning **C++, and Unreal Engine 4/5**
 
 - I love to tinker.
 
