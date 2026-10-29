@@ -11,7 +11,7 @@
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkuba&show_icons=true&theme=midnight-purple)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gkuba&show_icons=true&theme=midnight-purple)](https://github.com/stats-organization/github-stats-extended)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
