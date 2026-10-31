@@ -30,4 +30,4 @@ CachyOS on the desktop, Debian on the servers. Most of what I build is open sour
 | [Nivalis Body Swap](https://www.nexusmods.com/nivalisnights/mods/146) | BepInEx mod for Nivalis Nights. Copy any NPC's look, then restore your own. |
 | [SCUM server settings](https://github.com/gkuba/SCUM-Server-Settings) | Settings for the Pixelville community's SCUM server. |
 
-**Tools I use:** Bash · Go · Lua · C# · C++ · Hugo · Git · systemd · Hyprland · KDE Plasma
+**Tools I use:** Bash · Go · Lua · C# · C++ · Hugo
