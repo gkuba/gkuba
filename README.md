@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm Geramie!</h1>
-<h3 align="center">I'm a sysadmin who loves to automate things, play games, and stream.</h3>
-</ln>
-</br>
+### Hi, I'm Geramie 👋
 
-- I’m currently working on **automating my home servers**
+I'm a sysadmin from Utah who likes making machines behave. I write install wizards and dotfiles for my Linux boxes, build small tools to track down hardware problems, and make mods for the games my community plays.
 
-- I’m learning **C++, and Unreal Engine 4/5**
+CachyOS on the desktop, Debian on the servers. Most of what I build is open source, in case it saves someone else the trouble.
 
-- I love to tinker.
+**🌐 [gkuba.tuxgamer.com](https://gkuba.tuxgamer.com)** · [Projects](https://gkuba.tuxgamer.com/projects/) · [Setup](https://gkuba.tuxgamer.com/setup/) · [Nexus Mods](https://www.nexusmods.com/users/3362321?tab=user+files) · [LinkedIn](https://linkedin.com/in/geramie-kuba-05b98b54)
 
-</br>
+#### 🐧 Linux setup
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gkuba&show_icons=true&theme=midnight-purple)](https://github.com/stats-organization/github-stats-extended)
+| Project | What it does |
+|---|---|
+| [Arch-GKuba](https://github.com/gkuba/Arch-GKuba) | Post-install wizard for Arch-based systems like CachyOS. Shows the whole plan before anything changes. |
+| [dotfiles](https://github.com/gkuba/dotfiles) | Zsh, Starship, fzf, eza, Fastfetch and Neovim, kept in a Git bare repo with a full-screen installer. |
+| [DESetupLinux](https://github.com/gkuba/DESetupLinux) | Wallpapers, cursors and the Violet-Noir Dank Shell theme for Hyprland. |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/geramie-kuba-05b98b54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geramie-kuba-05b98b54" height="30" width="40" /></a>
-</p>
+#### 🛠️ Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gkuba&&show_icons=true&title_color=9933ff&icon_color=9933ff&text_color=daf7dc&bg_color=151515" alt="gkuba" /> </p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gkuba&label=Profile%20views&color=0e75b6&style=flat" alt="gkuba" /> </p>
+| Project | What it does |
+|---|---|
+| [ProgressCrabs](https://github.com/gkuba/ProgressCrabs) | Claude Code mod with a live progress band and a side-session panel drawn as little crabs. |
+| [System-Telemetry](https://github.com/gkuba/System-Telemetry) | Logger for an NVIDIA GPU that drops off the bus. Saves a crash bundle the moment it's lost. |
+| [InstallScriptTemplate](https://github.com/gkuba/InstallScriptTemplate) | Starting point for interactive Bash installers with a dry-run mode. |
+| [ReelAnvil](https://github.com/gkuba/ReelAnvil) | *Prototype.* Self-hosted app for cutting long videos into short clips you review first. |
 
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkuba&show_icons=true&locale=en&layout=compact" alt="gkuba" /></p>
--->
+#### 🎮 Games & mods
+
+| Project | What it does |
+|---|---|
+| [Nivalis Body Swap](https://www.nexusmods.com/nivalisnights/mods/146) | BepInEx mod for Nivalis Nights. Copy any NPC's look, then restore your own. |
+| [SCUM server settings](https://github.com/gkuba/SCUM-Server-Settings) | Settings for the Pixelville community's SCUM server. |
+
+**Tools I use:** Bash · Go · Lua · C# · C++ · Hugo · Git · systemd · Hyprland · KDE Plasma
