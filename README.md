@@ -1,4 +1,4 @@
-<a href="https://gkuba.tuxgamer.com"><img src="assets/hero.svg" width="100%" alt="GKuba avatar. Hi, I'm GKuba."></a>
+<a href="https://gkuba.tuxgamer.com"><img src="assets/hero.svg" width="100%" alt="Hi, I'm GKuba. Linux, tools, game mods."></a>
 
 <p align="center">
 <a href="https://gkuba.tuxgamer.com"><img src="assets/btn-gkuba-tuxgamer-com.svg" height="40" alt="gkuba.tuxgamer.com"></a>
