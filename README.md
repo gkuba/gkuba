@@ -1,33 +1,14 @@
-### Hi, I'm Geramie 👋
+<a href="https://gkuba.tuxgamer.com"><img src="assets/hero.svg" width="100%" alt="GKuba avatar. Hi, I'm GKuba."></a>
 
-I'm a sysadmin from Utah who likes making machines behave. I write install wizards and dotfiles for my Linux boxes, build small tools to track down hardware problems, and make mods for the games my community plays.
+<p align="center">
+<a href="https://gkuba.tuxgamer.com"><img src="assets/btn-gkuba-tuxgamer-com.svg" height="40" alt="gkuba.tuxgamer.com"></a>
+<a href="https://gkuba.tuxgamer.com/projects/"><img src="assets/btn-projects.svg" height="40" alt="Projects"></a>
+<a href="https://www.nexusmods.com/users/3362321?tab=user+files"><img src="assets/btn-nexus-mods.svg" height="40" alt="Nexus Mods ↗"></a>
+<a href="https://linkedin.com/in/geramie-kuba-05b98b54"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn ↗"></a>
+</p>
 
-CachyOS on the desktop, Debian on the servers. Most of what I build is open source, in case it saves someone else the trouble.
-
-**🌐 [gkuba.tuxgamer.com](https://gkuba.tuxgamer.com)** · [Projects](https://gkuba.tuxgamer.com/projects/) · [Setup](https://gkuba.tuxgamer.com/setup/) · [Nexus Mods](https://www.nexusmods.com/users/3362321?tab=user+files) · [LinkedIn](https://linkedin.com/in/geramie-kuba-05b98b54)
-
-#### 🐧 Linux setup
-
-| Project | What it does |
-|---|---|
-| [Arch-GKuba](https://github.com/gkuba/Arch-GKuba) | Post-install wizard for Arch-based systems like CachyOS. Shows the whole plan before anything changes. |
-| [dotfiles](https://github.com/gkuba/dotfiles) | Zsh, Starship, fzf, eza, Fastfetch and Neovim, kept in a Git bare repo with a full-screen installer. |
-| [DESetupLinux](https://github.com/gkuba/DESetupLinux) | Wallpapers, cursors and the Violet-Noir Dank Shell theme for Hyprland. |
-
-#### 🛠️ Tools
-
-| Project | What it does |
-|---|---|
-| [ProgressCrabs](https://github.com/gkuba/ProgressCrabs) | Claude Code mod with a live progress band and a side-session panel drawn as little crabs. |
-| [System-Telemetry](https://github.com/gkuba/System-Telemetry) | Logger for an NVIDIA GPU that drops off the bus. Saves a crash bundle the moment it's lost. |
-| [InstallScriptTemplate](https://github.com/gkuba/InstallScriptTemplate) | Starting point for interactive Bash installers with a dry-run mode. |
-| [ReelAnvil](https://github.com/gkuba/ReelAnvil) | *Prototype.* Self-hosted app for cutting long videos into short clips you review first. |
-
-#### 🎮 Games & mods
-
-| Project | What it does |
-|---|---|
-| [Nivalis Body Swap](https://www.nexusmods.com/nivalisnights/mods/146) | BepInEx mod for Nivalis Nights. Copy any NPC's look, then restore your own. |
-| [SCUM server settings](https://github.com/gkuba/SCUM-Server-Settings) | Settings for the Pixelville community's SCUM server. |
-
-**Tools I use:** Bash · Go · Lua · C# · C++ · Hugo
+<p align="center">
+<a href="https://gkuba.tuxgamer.com/projects/"><img src="assets/group-linux.svg" width="32%" alt="Linux setup"></a>
+<a href="https://gkuba.tuxgamer.com/projects/"><img src="assets/group-tools.svg" width="32%" alt="Tools"></a>
+<a href="https://gkuba.tuxgamer.com/projects/"><img src="assets/group-games.svg" width="32%" alt="Games & mods"></a>
+</p>
